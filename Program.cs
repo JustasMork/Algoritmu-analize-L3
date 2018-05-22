@@ -16,7 +16,7 @@ namespace L3
             switch (Console.ReadLine().Trim().ToLower())
             {
                 case "1":
-                    Search.runTest(seed);
+                    Task1.runTest(seed);
                     break;
                 case "2":
                     Task2.runTest(seed);

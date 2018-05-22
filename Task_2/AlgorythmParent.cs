@@ -12,8 +12,6 @@ namespace L3
 
         public abstract int runAlgorythm(int n, int k);
 
-
-
         protected int getSumOfElements(int n, int l)
         {
             if (n < l)

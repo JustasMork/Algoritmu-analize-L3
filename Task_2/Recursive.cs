@@ -42,8 +42,6 @@ namespace L3
                             min = recursionResult;
                     }
                 }
-                //System.Threading.Thread.Sleep(500);
-                //Console.WriteLine("k => {0}, n => {1}", k, n);
                 return min;
             }
         }
